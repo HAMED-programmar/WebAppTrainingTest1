@@ -1,0 +1,20 @@
+﻿.mydiv{
+    direction:rtl;
+    width:30%;
+    background-color:aqua;
+    font-family:'B Nazanin';
+    margin:auto;
+    margin-top:100px;
+
+
+
+}
+.mymdiv{
+    width:30%;
+    margin:auto;
+    margin-top:100px;
+    font-family:'B Nasim';
+    direction:rtl;
+
+}
+
